@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p4t4m8n" alt="p4t4m8n" /></a> </p>
 
-- 🔭 I’m currently working on [Comuunity-website](https://github.com/P4t4m8n/clanWebsite-front)
+- 🔭 I’m currently working on [community website](https://github.com/P4t4m8n/clanWebsite-front)
 
 - 🌱 I’m currently learning **Vue,Python**
 
