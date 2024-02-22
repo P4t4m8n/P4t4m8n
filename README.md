@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p4t4m8n" alt="p4t4m8n" /></a> </p>
 
-- 🔭 I’m currently working on [community website](https://github.com/P4t4m8n/clanWebsite-front)
-- 🔭 I’m currently working on [community website](https://github.com/P4t4m8n/clanWebsite-back)
+- 🔭 I’m currently working on [community website Front](https://github.com/P4t4m8n/clanWebsite-front)
+- 🔭 I’m currently working on [community website Back](https://github.com/P4t4m8n/clanWebsite-back)
 
-- 📖 My first Libary (work in progress)[React-Vite_starter](https://github.com/P4t4m8n/package)
+- 📖 My first Libary (work in progress) [React-Vite_starter](https://github.com/P4t4m8n/package)
 - 
-- 🏁 Almost finished [TubeFy-back](https://github.com/P4t4m8n/TubeFy-back) 
-- 🏁 Almost finished [TubeFy-back](https://github.com/P4t4m8n/TubeFy-front) 
+- 🏁 Almost finished [TubeFy Back](https://github.com/P4t4m8n/TubeFy-back) 
+- 🏁 Almost finished [TubeFy Front](https://github.com/P4t4m8n/TubeFy-front) 
 
 - 🌱 I’m currently learning **Angular,Python**
 
