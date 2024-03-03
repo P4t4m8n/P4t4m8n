@@ -18,6 +18,4 @@
 - 📫 How to reach me **michaelieran@gmail.com**
 - 📫 How to reach me [Linkdin](https://www.linkedin.com/in/michaelieran/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
