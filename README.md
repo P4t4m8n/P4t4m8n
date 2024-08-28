@@ -9,7 +9,7 @@
   
 - 🏁 Tubey - Final school project from Coding Academy, A full stack Spotify-like App. [TubeFy](https://tubefy.onrender.com/)
  
-- 🌱 I’m currently learning **Angular,Python**
+- 🌱 I’m currently learning **Angular,Go,SQL**
 
 - 📫 How to reach me **michaelieran@gmail.com**
 - 📫 How to reach me [Linkdin](https://www.linkedin.com/in/michaelieran/)
